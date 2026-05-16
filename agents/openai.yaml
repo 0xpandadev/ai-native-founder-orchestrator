@@ -1,3 +1,7 @@
-display_name: AI-Native Founder Orchestrator
-short_description: Orchestrate AI-native startup building and GTM.
-default_prompt: Use this skill to diagnose my startup stage and produce an AI-Native Execution Plan with founder decisions, Claude Chat tasks, Claude Code tasks, Claude Cowork tasks, GTM / BD motion, artifacts, exit criteria, and failure modes.
+interface:
+  display_name: "AI-Native Founder Orchestrator"
+  short_description: "Turns messy founder context into AI-native build, GTM, and workflow plans."
+  default_prompt: "Use $ai-native-founder-orchestrator to diagnose my startup stage and produce an AI-Native Execution Plan with founder decisions, Claude Chat tasks, Claude Code / Codex tasks, Claude Cowork tasks, GTM / BD motion, artifacts, exit criteria, and failure modes."
+
+policy:
+  allow_implicit_invocation: true
