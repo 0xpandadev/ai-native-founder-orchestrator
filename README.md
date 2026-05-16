@@ -4,6 +4,17 @@ Build with AI. Sell with AI. Keep founder judgment where it matters.
 
 Turn public AI-native founder and Codex-for-sales playbooks into an operating system for building and selling your startup.
 
+## GitHub Intro
+
+**English**  
+An AI-native founder operating skill inspired by Anthropic's Founder Playbook and OpenAI Academy's Codex-for-sales guide. It helps founders build, sell, and scale by separating founder judgment, AI reasoning, Codex/Claude Code implementation, customer-context analysis, GTM motion, Skills, memory, and workflows.
+
+**Japanese**  
+Anthropic Founder Playbook と OpenAI Academy の Codex 営業ガイドを参考にした、AI-native 創業者向けの運用Skillです。創業者が判断すること、AIに考えさせること、Codex / Claude Codeに作らせること、顧客文脈を読ませること、GTM / 営業 / BizDevを回すこと、Skill・memory・workflow化することを分けます。
+
+**Chinese**  
+一个受 Anthropic Founder Playbook 和 OpenAI Academy Codex 销售指南启发的 AI-native 创业者运营 Skill。它帮助创始人区分：人类判断、AI 推理、Codex / Claude Code 构建、客户上下文分析、GTM / 销售 / BD 动作，以及可复用的 Skills、memory 和 workflows。
+
 This is a plain `SKILL.md` skill for founders, operators, and startup advisors who want to build companies around AI from day one.
 
 It helps you decide:
